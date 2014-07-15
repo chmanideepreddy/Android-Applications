@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.HashMap;
 
+import com.example.daytracker.R;
 import android.app.Activity;
 import android.app.DatePickerDialog.OnDateSetListener;
 import android.content.Intent;
